@@ -1,0 +1,22 @@
+flask
+flask-sqlalchemy
+flask-migrate
+pymysql
+
+# auth and caching
+flask-jwt-extended
+Flask-Caching
+
+# redis client (optional, used by cache settings)
+redis
+
+# data processing used by product_services
+pandas
+
+# optional but recommended
+flask-jwt-extended
+Flask-Caching
+
+pandas
+
+Flask-Caching

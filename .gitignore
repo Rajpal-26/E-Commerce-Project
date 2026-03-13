@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables (Secrets)
+.env
+
+# Uploads and Logs
+uploads/
+app.log
